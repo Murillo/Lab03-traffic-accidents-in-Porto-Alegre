@@ -4,16 +4,16 @@ This repository presents the final work of Data Visualization of the Big Data &a
 Site: <a href="https://murillo.shinyapps.io/Lab03/" target="_blank" >https://murillo.shinyapps.io/Lab03/</a>
 
 ## View of the city of Porto Alegre, Brazil
-<img src="image/lab03-1.png" />
+<img src="images/lab03-1.png" />
 
 ## Tabbed data
-<img src="image/Lab03-2.png" />
+<img src="images/Lab03-2.png" />
 
 ## Histogram display
-<img src="image/Lab03-3.png" />
+<img src="images/Lab03-3.png" />
 
 ## Analyzes
-<img src="image/Lab03-4.png" />
+<img src="images/Lab03-4.png" />
 
 ## Libraries used in application Shiny
 * RCurl
