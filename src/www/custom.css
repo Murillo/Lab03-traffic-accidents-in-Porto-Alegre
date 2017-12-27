@@ -1,0 +1,28 @@
+html, body {
+  width:100%;
+  height:100%
+}
+
+#controls {
+  /* Appearance */
+  background-color: #f6f2f3;
+  padding: 10px 20px;
+  cursor: move;
+}
+
+div.over{
+  z-index: 10 !important;
+}
+
+div.outer {
+  position: fixed;
+  top: 41px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  padding: 0;
+}
+.form-group{
+  margin-bottom: 5px !important;
+}
