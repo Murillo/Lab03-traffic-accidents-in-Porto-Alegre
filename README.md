@@ -15,7 +15,7 @@ Site: <a href="https://murillo.shinyapps.io/Lab03/" target="_blank" >https://mur
 ## Analyzes
 <img src="images/Lab03-4.png" />
 
-## Libraries used in application Shiny
+## Libraries used in Shiny application 
 * RCurl
 * tidyverse
 * shiny
